@@ -1,0 +1,474 @@
+FID,line,name,notes,objectid,url,latitude,longitude
+0,4-6-6 Express,Astor Pl,"4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound",1.000000000000000,http://web.mta.info/nyct/service/,40.730054000300001,-73.991069998599997
+1,4-6-6 Express,Canal St,"4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound",2.000000000000000,http://web.mta.info/nyct/service/,40.718803001100000,-74.000192999299998
+2,1-2,50th St,"1-all times, 2-nights",3.000000000000000,http://web.mta.info/nyct/service/,40.761727999599998,-73.983848999900005
+3,2-3-4,Bergen St,"4-nights, 3-all other times, 2-all times",4.000000000000000,http://web.mta.info/nyct/service/,40.680862136800002,-73.974999151199995
+4,3-4,Pennsylvania Ave,"4-nights, 3-all other times",5.000000000000000,http://web.mta.info/nyct/service/,40.664714451400002,-73.894885911499998
+5,1,238th St,"1-all times, exit only northbound",6.000000000000000,http://web.mta.info/nyct/service/,40.884667000599997,-73.900870000200001
+6,A-B-C,Cathedral Pkwy (110th St),"A-nights, B-weekdays and evenings, C-all times exc nights",7.000000000000000,http://web.mta.info/nyct/service/,40.800581558099999,-73.958066706599993
+7,A-C,Kingston - Throop Aves,"A-nights, C-all other times",8.000000000000000,http://web.mta.info/nyct/service/,40.679918999400002,-73.940858998699994
+8,E-M-R,65th St,"E-nights, R-all other times, M-weekdays and evenings",9.000000000000000,http://web.mta.info/nyct/service/,40.749719529399997,-73.898788378299997
+9,E-M-R,36th St,"E-nights, R-all other times, M-weekdays and evenings",10.000000000000000,http://web.mta.info/nyct/service/,40.751960044000000,-73.929018184599997
+10,J-M-Z,Delancey St - Essex St,"J-all times, M-all times exc nights, Z-rush hours AM westbound, PM eastbound",11.000000000000000,http://web.mta.info/nyct/service/,40.718306056199999,-73.987409401999997
+11,J-Z,Van Siclen Ave,"Z-rush hours AM westbound, PM eastbound, J-all other times",12.000000000000000,http://web.mta.info/nyct/service/,40.678028214500003,-73.891657726999995
+12,J-Z,Norwood Ave,"Z-rush hours AM westbound, PM eastbound, J-all other times",13.000000000000000,http://web.mta.info/nyct/service/,40.681520000500001,-73.879625999100000
+13,J-Z,104th-102nd Sts,"Z-rush hours AM westbound, PM eastbound, J-all other times",14.000000000000000,http://web.mta.info/nyct/service/,40.695165998199997,-73.844435000299995
+14,B-D-N-Q-R,DeKalb Ave,"B-weekdays and evenings, D-all other times, N-nights, R-all other times, Q-all times",15.000000000000000,http://web.mta.info/nyct/service/,40.690648119999999,-73.981770944399997
+15,A-S,Beach 105th St,"A-rush hours AM northbound, PM southbound, S Broad Channel to Rockaway Park-all times",16.000000000000000,http://web.mta.info/nyct/service/,40.583268438099999,-73.827580750300001
+16,A-S,Beach 90th St,"A-rush hours AM northbound, PM southbound, S Broad Channel to Rockaway Park-all times",17.000000000000000,http://web.mta.info/nyct/service/,40.588091564599999,-73.813651404200002
+17,2-5,Freeman St,"2-all times, 5-all times exc nights, skips rush hours AM southbound, PM northbound",18.000000000000000,http://web.mta.info/nyct/service/,40.829987446399997,-73.891752253500002
+18,2-5,Intervale Ave,"2-all times, 5-all times exc nights, skips rush hours AM southbound, PM northbound",19.000000000000000,http://web.mta.info/nyct/service/,40.822142131200003,-73.896617384600006
+19,B-D,182nd-183rd Sts,"B-rush hours, D-all times, skips rush hours AM southbound, PM northbound",20.000000000000000,http://web.mta.info/nyct/service/,40.856092998800001,-73.900740999999996
+20,B-D,174th-175th Sts,"B-rush hours, D-all times, skips rush hours AM southbound, PM northbound",21.000000000000000,http://web.mta.info/nyct/service/,40.845899999799997,-73.910136000500003
+21,B-D,167th St,"B-rush hours, D-all times, skips rush hours AM southbound, PM northbound",22.000000000000000,http://web.mta.info/nyct/service/,40.833768998600000,-73.918432000799996
+22,7-7 Express,Mets - Willets Point,"7-all times, 7 Express-rush hours AM westbound, PM eastbound",23.000000000000000,http://web.mta.info/nyct/service/,40.754621998799998,-73.845624998399998
+23,7-7 Express,Junction Blvd,"7-all times, 7 Express-rush hours AM westbound, PM eastbound",24.000000000000000,http://web.mta.info/nyct/service/,40.749144999499997,-73.869527000999994
+24,7-7 Express,Flushing - Main St,"7-all times, 7 Express-rush hours AM westbound, PM eastbound",25.000000000000000,http://web.mta.info/nyct/service/,40.759599999199999,-73.830030002599997
+25,6-6 Express,Buhre Ave,"6 Express-weekdays AM southbound, PM northbound, 6-all other times",26.000000000000000,http://web.mta.info/nyct/service/,40.846809998900000,-73.832569000000007
+26,6-6 Express,3rd Ave - 138th St,"6-all times, 6 Express-weekdays AM southbound, PM northbound",27.000000000000000,http://web.mta.info/nyct/service/,40.810476001200001,-73.926138000099996
+27,6-6 Express,Castle Hill Ave,"6 Express-weekdays AM southbound, PM northbound, 6-all other times",28.000000000000000,http://web.mta.info/nyct/service/,40.834254998299997,-73.851221999600000
+28,4-5-6-6 Express,Brooklyn Bridge - City Hall,"4,6-all times, 5-all times exc nights, 6 Express-weekdays AM southbound, PM northbound",29.000000000000000,http://web.mta.info/nyct/service/,40.713064999399997,-74.004131000599997
+29,6-6 Express,Zerega Ave,"6 Express-weekdays AM southbound, PM northbound, 6-all other times",30.000000000000000,http://web.mta.info/nyct/service/,40.836488000599999,-73.847035998799996
+30,4-5-6-6 Express,Grand Central - 42nd St,"4,6-all times, 5-all times exc nights, 6 Express-weekdays AM southbound, PM northbound",31.000000000000000,http://web.mta.info/nyct/service/,40.751807429800003,-73.976713299300002
+31,4-6-6 Express,33rd St,"4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound",32.000000000000000,http://web.mta.info/nyct/service/,40.746080999100002,-73.982076001500005
+32,4-6-6 Express,96th St,"4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound",33.000000000000000,http://web.mta.info/nyct/service/,40.785671999999998,-73.951070001500000
+33,4-6-6 Express,77th St,"4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound",34.000000000000000,http://web.mta.info/nyct/service/,40.773620000699999,-73.959873998899994
+34,J-Z,Chauncey St,"Z-rush hours AM westbound, PM eastbound, J-all other times",35.000000000000000,http://web.mta.info/nyct/service/,40.682851300899998,-73.910383570299999
+35,D-N-R,Union St,"D,N-nights, R-all other times",36.000000000000000,http://web.mta.info/nyct/service/,40.677315667400002,-73.983109999099995
+36,E-M-R,Elmhurst Ave,"E-nights, R-all other times, M-weekdays and evenings",37.000000000000000,http://web.mta.info/nyct/service/,40.742370079700002,-73.882034746599999
+37,A-C,Ralph Ave,"A-nights, C-all other times",38.000000000000000,http://web.mta.info/nyct/service/,40.678822000899999,-73.920785999299994
+38,2-5,Pelham Pkwy,"2-all times, 5-rush hours AM southbound, PM northbound",39.000000000000000,http://web.mta.info/nyct/service/,40.857192409200003,-73.867480678500002
+39,2-5,Gun Hill Rd,"2-all times, 5-rush hours AM southbound, PM northbound",40.000000000000000,http://web.mta.info/nyct/service/,40.877839385199998,-73.866134105399993
+40,2-5,Nereid Ave (238 St),"2-all times, 5-rush hours AM southbound, PM northbound",41.000000000000000,http://web.mta.info/nyct/service/,40.898286515599999,-73.854315310800004
+41,2-3-4-5,Franklin Ave,"2,4-all times, 3-all times exc nights, 5-weekdays",42.000000000000000,http://web.mta.info/nyct/service/,40.670765153399998,-73.958099736799994
+42,2-5,Simpson St,"2-all times, 5-all times exc nights, skips rush hours AM southbound, PM northbound",43.000000000000000,http://web.mta.info/nyct/service/,40.823976841200000,-73.893066395100007
+43,2-5,Bronx Park East,"2-all times, 5-rush hours AM southbound, PM northbound",44.000000000000000,http://web.mta.info/nyct/service/,40.848768666300003,-73.868356091799996
+44,2-5,Winthrop St,"2-all times, 5-weekdays",45.000000000000000,http://web.mta.info/nyct/service/,40.656659313799999,-73.950079345899994
+45,3-4,Van Siclen Ave,"4-nights, 3-all other times",46.000000000000000,http://web.mta.info/nyct/service/,40.665517963100001,-73.889404917299998
+46,4,149th St - Grand Concourse,4-all times,47.000000000000000,http://web.mta.info/nyct/service/,40.818303443700003,-73.927384754299993
+47,4,161st St - Yankee Stadium,4-all times,48.000000000000000,http://web.mta.info/nyct/service/,40.828230327400000,-73.925691995099996
+48,4-5-6-6 Express,Lexington Ave - 59th St,"4,6-all times, 5-all times exc nights, 6 Express-weekdays AM southbound, PM northbound",49.000000000000000,http://web.mta.info/nyct/service/,40.762526000299999,-73.967967000499996
+49,6,E 149th St,6-all times,50.000000000000000,http://web.mta.info/nyct/service/,40.812117998300003,-73.904097998799998
+50,6,Morrison Av - Soundview,6-all times,51.000000000000000,http://web.mta.info/nyct/service/,40.829521001600000,-73.874515999300002
+51,6,Whitlock Ave,6-all times,52.000000000000000,http://web.mta.info/nyct/service/,40.826525000600000,-73.886282998499993
+52,6,St Lawrence Ave,6-all times,53.000000000000000,http://web.mta.info/nyct/service/,40.831509000499999,-73.867617999199993
+53,7-7 Express,Woodside - 61st St,"7-all times, 7 Express-rush hours AM westbound, PM eastbound",54.000000000000000,http://web.mta.info/nyct/service/,40.745630001099997,-73.902984001700005
+54,A,Far Rockaway - Mott Ave,A-all times,55.000000000000000,http://web.mta.info/nyct/service/,40.603995001700000,-73.755404999199996
+55,A-B-C,72nd St,"A-nights, B-weekdays and evenings, C-all times exc nights",56.000000000000000,http://web.mta.info/nyct/service/,40.775519397300002,-73.976336575199994
+56,A-B-C,96th St,"A-nights, B-weekdays and evenings, C-all times exc nights",57.000000000000000,http://web.mta.info/nyct/service/,40.791618797700004,-73.964602456899996
+57,A-C,168th St,"A-all times, C-all times exc nights",58.000000000000000,http://web.mta.info/nyct/service/,40.840718999899998,-73.939560999899996
+58,B-D,Kingsbridge Rd,"B-rush hours, D-all times",59.000000000000000,http://web.mta.info/nyct/service/,40.866978000000003,-73.893508999999995
+59,B-D-F-M,42nd St - Bryant Pk,"B,M-weekdays and evenings, D,F-all times",60.000000000000000,http://web.mta.info/nyct/service/,40.754184001299997,-73.984590999000005
+60,B-Q-S,Prospect Park,"B-weekdays and evenings, Q,S to Franklin Av-Fulton St-all times",61.000000000000000,http://web.mta.info/nyct/service/,40.661633455100002,-73.962031304299998
+61,D,55th St,D-all times,62.000000000000000,http://web.mta.info/nyct/service/,40.631478760900002,-73.995348825999997
+62,E,Jamaica - Van Wyck,E-all times,63.000000000000000,http://web.mta.info/nyct/service/,40.702898552900002,-73.817012871399996
+63,E-F,Kew Gardens - Union Tpke,"E,F-all times",64.000000000000000,http://web.mta.info/nyct/service/,40.714034819600002,-73.830370271000007
+64,E-J-Z,Sutphin Blvd - Archer Av,"E,J-all times, Z-rush hours AM westbound, PM eastbound",65.000000000000000,http://web.mta.info/nyct/service/,40.700382424200001,-73.808004719600007
+65,E-M,Court Sq - 23rd St,"E-all times, M-weekdays and evenings",66.000000000000000,http://web.mta.info/nyct/service/,40.747768121400000,-73.946054702699996
+66,E-M-R,67th Ave,"E-nights, R-all other times, M-weekdays and evenings",67.000000000000000,http://web.mta.info/nyct/service/,40.726505475800003,-73.852860484299995
+67,E-M-R,Grand Ave - Newtown,"E-nights, R-all other times, M-weekdays and evenings",68.000000000000000,http://web.mta.info/nyct/service/,40.736813418200001,-73.877220856700006
+68,F,Ditmas Ave,F-all times,69.000000000000000,http://web.mta.info/nyct/service/,40.636118666700000,-73.978171999699995
+69,G,Classon Ave,G-all times,70.000000000000000,http://web.mta.info/nyct/service/,40.688889000300001,-73.959990001400001
+70,G,Broadway,G-all times,71.000000000000000,http://web.mta.info/nyct/service/,40.706126576300001,-73.950312256100005
+71,L,Lorimer St,L-all times,72.000000000000000,http://web.mta.info/nyct/service/,40.714072000599998,-73.950248000000002
+72,L,Sutter Ave,L-all times,73.000000000000000,http://web.mta.info/nyct/service/,40.669145000599997,-73.901916000400007
+73,L,Wilson Ave,L-all times,74.000000000000000,http://web.mta.info/nyct/service/,40.688866542500001,-73.903958604899998
+74,J,Halsey St,J-all times,75.000000000000000,http://web.mta.info/nyct/service/,40.686415270700003,-73.916638884199998
+75,J-M,Lorimer St,"J-all times, skips weekdays AM westbound, PM eastbound, M-all times exc nights",76.000000000000000,http://web.mta.info/nyct/service/,40.703843999999997,-73.947354998799995
+76,N,8th Ave,N-all times,77.000000000000000,http://web.mta.info/nyct/service/,40.634970999600000,-74.011515997700002
+77,N-W,36th Ave,"N-all times, W part time",78.000000000000000,http://web.mta.info/nyct/service/,40.756442000500002,-73.929861999099998
+78,N-W,Broadway,"N-all times, W part time",79.000000000000000,http://web.mta.info/nyct/service/,40.761431998799999,-73.925822999199994
+79,N-Q-R-W,Times Sq - 42nd St,"N,Q-all times, R-all times exc nights, W part time",80.000000000000000,http://web.mta.info/nyct/service/,40.754611998500003,-73.986768001499996
+80,S,Grand Central - 42nd St,"S to Times Sq-all times exc nights, closed nights-use 7",81.000000000000000,http://web.mta.info/nyct/service/,40.752768666700000,-73.979188999900003
+81,S,Park Pl,S Franklin Av-Fulton St to Prospect Park-all times,82.000000000000000,http://web.mta.info/nyct/service/,40.674771666900000,-73.957624000699994
+82,A-S,111th St,"S Euclid Av to Ozone Park-Lefferts Blvd-nights, A-all other times",83.000000000000000,http://web.mta.info/nyct/service/,40.684331000000000,-73.832162998499996
+83,B-D-F-M,W 4th St - Washington Sq (Lower),"B,M-weekdays and evenings, D,F-all times",84.000000000000000,http://web.mta.info/nyct/service/,40.732254493399999,-74.000308147599995
+84,4-6-6 Express,51st St,"4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound",85.000000000000000,http://web.mta.info/nyct/service/,40.757106999900003,-73.971920000699996
+85,1-2,86th St,"1-all times, 2-nights",86.000000000000000,http://web.mta.info/nyct/service/,40.788644000700003,-73.976217998600006
+86,2-5,233rd St,"2-all times, 5-rush hours AM southbound, PM northbound",87.000000000000000,http://web.mta.info/nyct/service/,40.893143241399997,-73.857362395199999
+87,1-2,66th St - Lincoln Ctr,"1-all times, 2-nights",88.000000000000000,http://web.mta.info/nyct/service/,40.773440000500003,-73.982208999999997
+88,6-6 Express,Hunts Point Ave,"6-all times, 6 Express-weekdays AM southbound, PM northbound",89.000000000000000,http://web.mta.info/nyct/service/,40.820947998500003,-73.890549000199996
+89,1-2,Canal St,"1-all times, 2-nights",90.000000000000000,http://web.mta.info/nyct/service/,40.722853997800001,-74.006277000200001
+90,6-6 Express,Middletown Rd,"6 Express-weekdays AM southbound, PM northbound, 6-all other times",91.000000000000000,http://web.mta.info/nyct/service/,40.843863001300001,-73.836321997599995
+91,4-6-6 Express,23rd St,"4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound",92.000000000000000,http://web.mta.info/nyct/service/,40.739864000499999,-73.986599002099993
+92,7-7 Express,Court Sq,"7-all times, 7 Express-rush hours AM westbound, PM eastbound",93.000000000000000,http://web.mta.info/nyct/service/,40.747022998900000,-73.945264000400002
+93,1-2,59th St - Columbus Circle,"1-all times, 2-nights",94.000000000000000,http://web.mta.info/nyct/service/,40.768247000599999,-73.981929002300006
+94,7-7 Express,Hunters Point Ave,"7-all times, 7 Express-rush hours AM westbound, PM eastbound",95.000000000000000,http://web.mta.info/nyct/service/,40.742215999899997,-73.948916000899999
+95,1-2,23rd St,"1-all times, 2-nights",96.000000000000000,http://web.mta.info/nyct/service/,40.744080999900000,-73.995657001599994
+96,1-2,Houston St,"1-all times, 2-nights",97.000000000000000,http://web.mta.info/nyct/service/,40.728251000699998,-74.005367001799996
+97,A-S,104th St,"S Euclid Av to Ozone Park-Lefferts Blvd-nights, A-all other times",98.000000000000000,http://web.mta.info/nyct/service/,40.681711001099998,-73.837683000599995
+98,A-S,Broad Channel,"A,S to Rockaway Park-all times",99.000000000000000,http://web.mta.info/nyct/service/,40.608402180699997,-73.815832687799997
+99,Q,Ocean Pkwy,Q-all times,100.000000000000000,http://web.mta.info/nyct/service/,40.576311667100001,-73.968500999800000
+100,7-7 Express,Vernon Blvd - Jackson Ave,"7-all times, 7 Express-rush hours AM westbound, PM eastbound",101.000000000000000,http://web.mta.info/nyct/service/,40.742625999700003,-73.953580998800007
+101,4-6-6 Express,68th St - Hunter College,"4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound",102.000000000000000,http://web.mta.info/nyct/service/,40.768141000500002,-73.963870001600000
+102,7-7 Express-N-W,Queensboro Plz,"7,N-all times, 7 Express-rush hours AM westbound, PM eastbound, W part time",103.000000000000000,http://web.mta.info/nyct/service/,40.750635651000003,-73.940163535200000
+103,A-S,Rockaway Blvd,"A-all times, S Euclid Av to Ozone Park-Lefferts Blvd-nights",104.000000000000000,http://web.mta.info/nyct/service/,40.680428999599997,-73.843852998000003
+104,4-5-6-6 Express,Union Sq - 14th St,"4,6-all times, 5-all times exc nights, 6 Express-weekdays AM southbound, PM northbound",105.000000000000000,http://web.mta.info/nyct/service/,40.734673000999997,-73.989950998799998
+105,G,Bedford - Nostrand Aves,G-all times,106.000000000000000,http://web.mta.info/nyct/service/,40.689627001600002,-73.953522000600003
+106,F-G,15th St - Prospect Park,"F,G-all times",107.000000000000000,http://web.mta.info/nyct/service/,40.660035688100002,-73.979735805900006
+107,F-G,7th Ave,"F,G-all times",108.000000000000000,http://web.mta.info/nyct/service/,40.666244689999999,-73.980251179000007
+108,F-G,Ft Hamilton Pkwy,"F,G-all times",109.000000000000000,http://web.mta.info/nyct/service/,40.650781668000000,-73.975775999199996
+109,F-G,Church Ave,"F,G-all times",110.000000000000000,http://web.mta.info/nyct/service/,40.644272000100003,-73.979721162299995
+110,Q,Beverly Rd,Q-all times,111.000000000000000,http://web.mta.info/nyct/service/,40.643904598600002,-73.964357796200005
+111,B-Q,Church Ave,"B-weekdays and evenings, Q-all times",112.000000000000000,http://web.mta.info/nyct/service/,40.650493246499998,-73.962882461899994
+112,B-Q,Newkirk Ave,"B-weekdays and evenings, Q-all times",113.000000000000000,http://web.mta.info/nyct/service/,40.635141937299998,-73.962694868400007
+113,Q,Parkside Ave,Q-all times,114.000000000000000,http://web.mta.info/nyct/service/,40.655073041599998,-73.961453439899998
+114,2-3-4,Grand Army Plaza,"4-nights, 3-all other times, 2-all times",115.000000000000000,http://web.mta.info/nyct/service/,40.675294695100000,-73.970956331899998
+115,2-3-4-5,Atlantic Av - Barclay's Center,"2,4-all times, 3-all times exc nights, 5-weekdays",116.000000000000000,http://web.mta.info/nyct/service/,40.684420165299997,-73.977549935400006
+116,A-C,Rockaway Ave,"A-nights, C-all other times",117.000000000000000,http://web.mta.info/nyct/service/,40.678339999899997,-73.911945997299995
+117,G,Fulton St,G-all times,118.000000000000000,http://web.mta.info/nyct/service/,40.687118999500001,-73.975374998299998
+118,G,Clinton - Washington Aves,G-all times,119.000000000000000,http://web.mta.info/nyct/service/,40.688094001099998,-73.966795998699993
+119,B-Q,7th Ave,"B-weekdays and evenings, Q-all times",120.000000000000000,http://web.mta.info/nyct/service/,40.677102179800002,-73.972852791899996
+120,B-Q,Atlantic Av - Barclay's Center,"B-weekdays and evenings, Q-all times",121.000000000000000,http://web.mta.info/nyct/service/,40.684488323499998,-73.976783439599998
+121,D-N-Q-R,Atlantic Av - Barclay's Center,"D,N-all times, R-all times exc nights",122.000000000000000,http://web.mta.info/nyct/service/,40.683665667299998,-73.978809999600003
+122,4-5,Borough Hall,"4-all times, 5-weekdays",123.000000000000000,http://web.mta.info/nyct/service/,40.692404000000003,-73.990151000899999
+123,A,Aqueduct Racetrack,"A-to Manhattan only, racing days only",124.000000000000000,http://web.mta.info/nyct/service/,40.672096999200001,-73.835918999699999
+124,5,Morris Park,5-all times,125.000000000000000,http://web.mta.info/nyct/service/,40.854363999699999,-73.860495001199993
+125,5,Pelham Pkwy,5-all times,126.000000000000000,http://web.mta.info/nyct/service/,40.858984999800001,-73.855359000400000
+126,A-C,Nostrand Ave,"A-all times, C-all times exc nights",127.000000000000000,http://web.mta.info/nyct/service/,40.680438000099997,-73.950426000999997
+127,2-3-4-5,Nevins St,"2,4-all times, 3-all times exc nights, 5-weekdays",128.000000000000000,http://web.mta.info/nyct/service/,40.688310580200003,-73.980406798700002
+128,2-3-4,Eastern Pkwy - Bklyn Museum,"4-nights, 3-all other times, 2-all times",129.000000000000000,http://web.mta.info/nyct/service/,40.672032235499998,-73.964222037499994
+129,2-5,Beverly Rd,"2-all times, 5-weekdays",130.000000000000000,http://web.mta.info/nyct/service/,40.645123518900000,-73.948847983799993
+130,2-5,Church Ave,"2-all times, 5-weekdays",131.000000000000000,http://web.mta.info/nyct/service/,40.650860687799998,-73.949455140400005
+131,2-5,Newkirk Ave,"2-all times, 5-weekdays",132.000000000000000,http://web.mta.info/nyct/service/,40.639991242800001,-73.948299908199999
+132,2-5,Brooklyn College - Flatbush Ave,"2-all times, 5-weekdays",133.000000000000000,http://web.mta.info/nyct/service/,40.632842406999998,-73.947541207300006
+133,2-5,Sterling St,"2-all times, 5-weekdays",134.000000000000000,http://web.mta.info/nyct/service/,40.662772993399997,-73.950728911200002
+134,3-4,Crown Hts - Utica Ave,"3-all times exc nights, 4-all times",135.000000000000000,http://web.mta.info/nyct/service/,40.668978311099998,-73.932932560799998
+135,3-4,Kingston Ave,"4-nights, 3-all other times",136.000000000000000,http://web.mta.info/nyct/service/,40.669481448600003,-73.942159783899996
+136,G,Nassau Ave,G-all times,137.000000000000000,http://web.mta.info/nyct/service/,40.724479997800003,-73.951183000200004
+137,G,Greenpoint Ave,G-all times,138.000000000000000,http://web.mta.info/nyct/service/,40.731266999699997,-73.954425001499999
+138,J-M-Z,Marcy Ave,"J-all times, M-all times exc nights, Z-rush hours AM westbound, PM eastbound",139.000000000000000,http://web.mta.info/nyct/service/,40.708382999999998,-73.957832000799996
+139,J-M,Hewes St,"J-all times, skips weekdays AM westbound, PM eastbound, M-all times exc nights",140.000000000000000,http://web.mta.info/nyct/service/,40.706889998100003,-73.953488000400000
+140,4-5,138th St - Grand Concourse,"4-all times, skips rush hours AM southbound, PM northbound, 5-all times exc nights",141.000000000000000,http://web.mta.info/nyct/service/,40.813223999599998,-73.929848999399994
+141,E-M,5th Ave - 53rd St,"E-all times, M-weekdays and evenings",142.000000000000000,http://web.mta.info/nyct/service/,40.760086832299997,-73.975248505300002
+142,E-M,Lexington Ave - 53rd St,"E-all times, M-weekdays and evenings",143.000000000000000,http://web.mta.info/nyct/service/,40.757468307800004,-73.969072374899994
+143,N-Q-R-W,28th St,"N-all times, R-all times exc nights, part time",144.000000000000000,http://web.mta.info/nyct/service/,40.745453999799999,-73.988698001299994
+144,N-Q-R-W,Herald Sq - 34th St,"N,Q-all times, R-all times exc nights",145.000000000000000,http://web.mta.info/nyct/service/,40.749644560100002,-73.987936833800006
+145,L,1st Ave,L-all times,146.000000000000000,http://web.mta.info/nyct/service/,40.730974975800002,-73.981680874899993
+146,S,Times Sq - 42nd St,"S to Grand Central-all times exc nights, closed nights-use 7",147.000000000000000,http://web.mta.info/nyct/service/,40.755983000599997,-73.986228999500000
+147,G,Metropolitan Ave,G-all times,148.000000000000000,http://web.mta.info/nyct/service/,40.712774000700001,-73.951423999499994
+148,L,Grand St,L-all times,149.000000000000000,http://web.mta.info/nyct/service/,40.711576000599997,-73.940496998699999
+149,L,Graham Ave,L-all times,150.000000000000000,http://web.mta.info/nyct/service/,40.714575998400001,-73.943943998699993
+150,L,Bedford Ave,L-all times,151.000000000000000,http://web.mta.info/nyct/service/,40.717173998600003,-73.956664998099996
+151,L,Montrose Ave,L-all times,152.000000000000000,http://web.mta.info/nyct/service/,40.707391064399999,-73.939792847099994
+152,G,Long Island City - Court Sq,G-all times,153.000000000000000,http://web.mta.info/nyct/service/,40.746305033600002,-73.943815595999993
+153,G,21st St,G-all times,154.000000000000000,http://web.mta.info/nyct/service/,40.744128666500004,-73.949599999800000
+154,N-W,39th Ave,"N-all times, W part time",155.000000000000000,http://web.mta.info/nyct/service/,40.752763061400003,-73.932851376800002
+155,1,145th St,1-all times,156.000000000000000,http://web.mta.info/nyct/service/,40.826550999600002,-73.950359998799996
+156,1,157th St,1-all times,157.000000000000000,http://web.mta.info/nyct/service/,40.834041000100001,-73.944889998999997
+157,1-2-3,96th St,"1,2,3-all times",158.000000000000000,http://web.mta.info/nyct/service/,40.793919001200003,-73.972322999200003
+158,1,103rd St,1-all times,159.000000000000000,http://web.mta.info/nyct/service/,40.799446000300001,-73.968378999600006
+159,2-3,Central Park North (110th St),"2,3-all times",160.000000000000000,http://web.mta.info/nyct/service/,40.799074999799998,-73.951822001799997
+160,A-B-C,103rd St,"A-nights, B-weekdays and evenings, C-all times exc nights",161.000000000000000,http://web.mta.info/nyct/service/,40.796060739900000,-73.961370082700000
+161,1-2-3,72nd St,"1,2,3-all times",162.000000000000000,http://web.mta.info/nyct/service/,40.778453000699997,-73.981970001600004
+162,A-B-C,81st St,"A-nights, B-weekdays and evenings, C-all times exc nights",163.000000000000000,http://web.mta.info/nyct/service/,40.781346084200003,-73.972097949399995
+163,E-F,75th Ave,"E-evenings, weekends, nights, F-all times",164.000000000000000,http://web.mta.info/nyct/service/,40.718044653500002,-73.836923693900005
+164,A-B-C,86th St,"A-nights, B-weekdays and evenings, C-all times exc nights",165.000000000000000,http://web.mta.info/nyct/service/,40.785823046799997,-73.968828494299999
+165,1,Cathedral Pkwy (110th St),1-all times,166.000000000000000,http://web.mta.info/nyct/service/,40.803966999600000,-73.966847000499996
+166,1,116th St - Columbia University,1-all times,167.000000000000000,http://web.mta.info/nyct/service/,40.807722001199998,-73.964109997600005
+167,2-3,125th St,"2,3-all times",168.000000000000000,http://web.mta.info/nyct/service/,40.807753999200003,-73.945495000099996
+168,2-3,135th St,"2,3-all times",169.000000000000000,http://web.mta.info/nyct/service/,40.814229000300003,-73.940770001100006
+169,2-3,116th St,"2,3-all times",170.000000000000000,http://web.mta.info/nyct/service/,40.802097999099999,-73.949625001000001
+170,B-D,Tremont Ave,"B-rush hours, D-all times",171.000000000000000,http://web.mta.info/nyct/service/,40.850409999500002,-73.905227001200004
+171,1,137th St - City College,1-all times,172.000000000000000,http://web.mta.info/nyct/service/,40.822007999699998,-73.953676000900003
+172,3,145th St,"3-all times, exit only northbound",173.000000000000000,http://web.mta.info/nyct/service/,40.820420999699998,-73.936244998700005
+173,4,176th St,4-all times,174.000000000000000,http://web.mta.info/nyct/service/,40.848480001200002,-73.911793998799993
+174,4,Burnside Ave,4-all times,175.000000000000000,http://web.mta.info/nyct/service/,40.853453001600002,-73.907684001600003
+175,B-D,170th St,"B-rush hours, D-all times, skips rush hours AM southbound, PM northbound",176.000000000000000,http://web.mta.info/nyct/service/,40.839305999600001,-73.913399998499997
+176,1,168th St,1-all times,177.000000000000000,http://web.mta.info/nyct/service/,40.840555999099998,-73.940132999100001
+177,1,181st St,1-all times,178.000000000000000,http://web.mta.info/nyct/service/,40.849504999700002,-73.933595999600001
+178,1,191st St,1-all times,179.000000000000000,http://web.mta.info/nyct/service/,40.855225001800001,-73.929411997399995
+179,A,175th St,A-all times,180.000000000000000,http://web.mta.info/nyct/service/,40.847391000700000,-73.939703997600006
+180,A,Beach 44th St,A-all times,181.000000000000000,http://web.mta.info/nyct/service/,40.592942999100003,-73.776013000000006
+181,A,Beach 60th St,A-all times,182.000000000000000,http://web.mta.info/nyct/service/,40.592374001200000,-73.788521997999993
+182,A-S,Beach 98th St,"A-rush hours AM northbound, PM southbound, S Broad Channel to Rockaway Park-all times",183.000000000000000,http://web.mta.info/nyct/service/,40.585385691299997,-73.820520589599994
+183,A-S,Rockaway Park - Beach 116 St,"A-rush hours AM northbound, PM southbound, S to Broad Channel-all times",184.000000000000000,http://web.mta.info/nyct/service/,40.580955865599996,-73.835590087000000
+184,A,Beach 36th St,A-all times,185.000000000000000,http://web.mta.info/nyct/service/,40.595398001699998,-73.768174999400003
+185,A,Beach 25th St,A-all times,186.000000000000000,http://web.mta.info/nyct/service/,40.600066001099997,-73.761352997600000
+186,F,Parsons Blvd,F-all times,187.000000000000000,http://web.mta.info/nyct/service/,40.707571999599999,-73.803289000199996
+187,F,169th St,F-all times,188.000000000000000,http://web.mta.info/nyct/service/,40.710517502800002,-73.793474199299993
+188,7,103rd St - Corona Plaza,7-all times,189.000000000000000,http://web.mta.info/nyct/service/,40.749865000600003,-73.862699998300002
+189,7,111th St,7-all times,190.000000000000000,http://web.mta.info/nyct/service/,40.751729999399998,-73.855333998299997
+190,E-M-R,63rd Dr - Rego Park,"E-nights, R-all other times, M-weekdays and evenings",191.000000000000000,http://web.mta.info/nyct/service/,40.729763972400001,-73.861618200999999
+191,A-S,Grant Ave,"A-all times, S Euclid Av to Ozone Park-Lefferts Blvd-nights",192.000000000000000,http://web.mta.info/nyct/service/,40.677044000499997,-73.865049998800004
+192,1-2,79th St,"1-all times, 2-nights",193.000000000000000,http://web.mta.info/nyct/service/,40.783933999600002,-73.979917000599997
+193,L,Atlantic Ave,L-all times,194.000000000000000,http://web.mta.info/nyct/service/,40.675344666400001,-73.903096999499994
+194,1-2,Christopher St - Sheridan Sq,"1-all times, 2-nights",195.000000000000000,http://web.mta.info/nyct/service/,40.733422001000001,-74.002905998599999
+195,A-S,Ozone Park - Lefferts Blvd,"S to Euclid Av-nights, A-all other times",196.000000000000000,http://web.mta.info/nyct/service/,40.685950998800003,-73.825797999100004
+196,7-7 Express,Times Sq - 42nd St,"7-all times, 7 Express-rush hours AM westbound, PM eastbound",197.000000000000000,http://web.mta.info/nyct/service/,40.755477001999999,-73.987690998299996
+197,F-Q,W 8th St - NY Aquarium,"F,Q-all times",198.000000000000000,http://web.mta.info/nyct/service/,40.576033818100001,-73.975957874100004
+198,1-2,28th St,"1-all times, 2-nights",199.000000000000000,http://web.mta.info/nyct/service/,40.747214999199997,-73.993365001300006
+199,4-6-6 Express,28th St,"4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound",200.000000000000000,http://web.mta.info/nyct/service/,40.743069999299998,-73.984264001100001
+200,6-6 Express,Pelham Bay Park,"6 Express-weekdays AM southbound, PM northbound, 6-all other times",201.000000000000000,http://web.mta.info/nyct/service/,40.852461999500001,-73.828121000600007
+201,6-6 Express,Westchester Sq - E Tremont Ave,"6 Express-weekdays AM southbound, PM northbound, 6-all other times",202.000000000000000,http://web.mta.info/nyct/service/,40.839892001000003,-73.842951999299999
+202,1-2,18th St,"1-all times, 2-nights",203.000000000000000,http://web.mta.info/nyct/service/,40.741039999800002,-73.997871000600000
+203,7-7 Express,Grand Central - 42nd St,"7-all times, 7 Express-rush hours AM westbound, PM eastbound",204.000000000000000,http://web.mta.info/nyct/service/,40.751431000300002,-73.976041001100000
+204,A,Beach 67th St,A-all times,205.000000000000000,http://web.mta.info/nyct/service/,40.590927000800001,-73.796923999800001
+205,A-C-E,W 4th St - Washington Sq (Upper),"A,E-all times, C-all times exc nights",206.000000000000000,http://web.mta.info/nyct/service/,40.732337997700000,-74.000495002299999
+206,J,85th St - Forest Pky,J-all times,207.000000000000000,http://web.mta.info/nyct/service/,40.692426999699997,-73.860087000099995
+207,J-Z,Woodhaven Blvd,"J-all times, Z-rush hours AM westbound, PM eastbound",208.000000000000000,http://web.mta.info/nyct/service/,40.693703998799997,-73.852051997399997
+208,J,111th St,J-all times,209.000000000000000,http://web.mta.info/nyct/service/,40.697114810700000,-73.836793384499998
+209,J-Z,121st St,"Z-rush hours AM westbound, PM eastbound, J-all other times",210.000000000000000,http://web.mta.info/nyct/service/,40.700481998500003,-73.828349000200006
+210,L,Halsey St,L-all times,211.000000000000000,http://web.mta.info/nyct/service/,40.695518001099998,-73.903934001200000
+211,L,Myrtle - Wyckoff Aves,L-all times,212.000000000000000,http://web.mta.info/nyct/service/,40.699471062400001,-73.910975718299994
+212,3-4,New Lots Ave,"4-nights, 3-all other times",213.000000000000000,http://web.mta.info/nyct/service/,40.666314932600002,-73.884110707999994
+213,A-C,Van Siclen Ave,"A-nights, C-all other times",214.000000000000000,http://web.mta.info/nyct/service/,40.672709999100000,-73.890358000199996
+214,J,Cleveland St,J-all times,215.000000000000000,http://web.mta.info/nyct/service/,40.679777999000002,-73.885194002199995
+215,L,Livonia Ave,L-all times,216.000000000000000,http://web.mta.info/nyct/service/,40.664057270900003,-73.900562372300001
+216,3-4,Junius St,"4-nights, 3-all other times",217.000000000000000,http://web.mta.info/nyct/service/,40.663589001799998,-73.902448641800007
+217,3-4,Rockaway Ave,"4-nights, 3-all other times",218.000000000000000,http://web.mta.info/nyct/service/,40.662617488199999,-73.908958335799994
+218,L,Canarsie - Rockaway Pkwy,L-all times,219.000000000000000,http://web.mta.info/nyct/service/,40.646653667400003,-73.901850000200000
+219,L,E 105th St,L-all times,220.000000000000000,http://web.mta.info/nyct/service/,40.650468785400001,-73.899547693900004
+220,3-4,Saratoga Ave,"4-nights, 3-all other times",221.000000000000000,http://web.mta.info/nyct/service/,40.661529789799999,-73.916330250100003
+221,3-4,Sutter Ave - Rutland Road,"4-nights, 3-all other times",222.000000000000000,http://web.mta.info/nyct/service/,40.664766788800002,-73.922521185400001
+222,L,New Lots Ave,L-all times,223.000000000000000,http://web.mta.info/nyct/service/,40.658914773699998,-73.899277960600003
+223,J-Z,Broadway Junction,"J-all times, Z-rush hours AM westbound, PM eastbound",224.000000000000000,http://web.mta.info/nyct/service/,40.679366001500000,-73.904289997500001
+224,J,Alabama Ave,J-all times,225.000000000000000,http://web.mta.info/nyct/service/,40.676997999999998,-73.898526001600004
+225,A-C,Shepherd Ave,"A-nights, C-all other times",226.000000000000000,http://web.mta.info/nyct/service/,40.674130001499996,-73.880749997500004
+226,J-Z,Crescent St,"J-all times, Z-rush hours AM westbound, PM eastbound",227.000000000000000,http://web.mta.info/nyct/service/,40.683152657100003,-73.873929252200000
+227,J,Cypress Hills,J-all times,228.000000000000000,http://web.mta.info/nyct/service/,40.689616000800001,-73.873321998799995
+228,J-Z,75th St - Eldert Ln,"Z-rush hours AM westbound, PM eastbound, J-all other times",229.000000000000000,http://web.mta.info/nyct/service/,40.691290001200002,-73.867287999400006
+229,7,69th St,7-all times,230.000000000000000,http://web.mta.info/nyct/service/,40.746324999400002,-73.896402999299994
+230,7,74th St - Broadway,7-all times,231.000000000000000,http://web.mta.info/nyct/service/,40.746867573800003,-73.891205128999999
+231,E-M-R,Woodhaven Blvd - Queens Mall,"E-nights, R-all other times, M-weekdays and evenings",232.000000000000000,http://web.mta.info/nyct/service/,40.733097373800000,-73.869432086100005
+232,M,Myrtle - Wyckoff Aves,M-all times,233.000000000000000,http://web.mta.info/nyct/service/,40.699454000899998,-73.912178999399998
+233,M,Seneca Ave,M-all times,234.000000000000000,http://web.mta.info/nyct/service/,40.702918998900003,-73.907581998900000
+234,L,DeKalb Ave,L-all times,235.000000000000000,http://web.mta.info/nyct/service/,40.703692999600001,-73.918232002200000
+235,7,52nd St,7-all times,236.000000000000000,http://web.mta.info/nyct/service/,40.744149000999997,-73.912548998899993
+236,E-M-R,46th St,"E-nights, R-all other times, M-weekdays and evenings",237.000000000000000,http://web.mta.info/nyct/service/,40.756316952600002,-73.913521750000001
+237,E-M-R,Northern Blvd,"E-nights, R-all other times, M-weekdays and evenings",238.000000000000000,http://web.mta.info/nyct/service/,40.752824829200001,-73.906065080499999
+238,7,46th St,7-all times,239.000000000000000,http://web.mta.info/nyct/service/,40.743132000599999,-73.918435001000006
+239,7,82nd St - Jackson Hts,7-all times,240.000000000000000,http://web.mta.info/nyct/service/,40.747658999599999,-73.883697000699996
+240,7,90th St - Elmhurst Av,7-all times,241.000000000000000,http://web.mta.info/nyct/service/,40.748408000600001,-73.876612999900004
+241,A,Howard Beach - JFK Airport,A-all times,242.000000000000000,http://web.mta.info/nyct/service/,40.660476000000003,-73.830301000700004
+242,A,Aqueduct - North Conduit Av,A-all times,243.000000000000000,http://web.mta.info/nyct/service/,40.668234001700000,-73.834057999500004
+243,E-F,Briarwood - Van Wyck Blvd,"E-evenings, weekends, nights, F-all times",244.000000000000000,http://web.mta.info/nyct/service/,40.709161815400002,-73.820692636399997
+244,E-F-M-R,Forest Hills - 71st Av,"E,F-all times, M-weekdays and evenings, R-all times exc nights",245.000000000000000,http://web.mta.info/nyct/service/,40.721594309499999,-73.844516720100003
+245,F,Sutphin Blvd,F-all times,246.000000000000000,http://web.mta.info/nyct/service/,40.705417999100000,-73.810832998999999
+246,E-J-Z,Jamaica Ctr - Parsons / Archer,"E,J-all times, Z-rush hours AM westbound, PM eastbound",247.000000000000000,http://web.mta.info/nyct/service/,40.702067376199999,-73.801096322999996
+247,2-5,225th St,"2-all times, 5-rush hours AM southbound, PM northbound",248.000000000000000,http://web.mta.info/nyct/service/,40.888028258600002,-73.860214617699995
+248,6,Elder Ave,6-all times,249.000000000000000,http://web.mta.info/nyct/service/,40.828584001099998,-73.879158998700007
+249,6,Longwood Ave,6-all times,250.000000000000000,http://web.mta.info/nyct/service/,40.816104000000003,-73.896434998999993
+250,N-W,Astoria Blvd,"N-all times, W part time",251.000000000000000,http://web.mta.info/nyct/service/,40.770036999500000,-73.918095001099999
+251,N-W,Astoria - Ditmars Blvd,"N-all times, W part time",252.000000000000000,http://web.mta.info/nyct/service/,40.775035666500003,-73.912034000099993
+252,2-5,Jackson Ave,"2-all times, 5-all times exc nights, skips rush hours AM southbound, PM northbound",253.000000000000000,http://web.mta.info/nyct/service/,40.816437466899998,-73.907701938700001
+253,2-5,Prospect Ave,"2-all times, 5-all times exc nights, skips rush hours AM southbound, PM northbound",254.000000000000000,http://web.mta.info/nyct/service/,40.819487264800003,-73.901777787300006
+254,6,Cypress Ave,6-all times,255.000000000000000,http://web.mta.info/nyct/service/,40.805368000800001,-73.914041999899993
+255,2-5,174th St,"2-all times, 5-all times exc nights, skips rush hours AM southbound, PM northbound",256.000000000000000,http://web.mta.info/nyct/service/,40.837195550200001,-73.887693598100000
+256,2-5,Allerton Ave,"2-all times, 5-rush hours AM southbound, PM northbound",257.000000000000000,http://web.mta.info/nyct/service/,40.865483377899999,-73.867234228499996
+257,6,E 143rd St - St Mary's St,6-all times,258.000000000000000,http://web.mta.info/nyct/service/,40.808719000899998,-73.907656999400004
+258,4,Kingsbridge Rd,4-all times,259.000000000000000,http://web.mta.info/nyct/service/,40.867760000899999,-73.897174000999996
+259,4,Bedford Park Blvd - Lehman College,4-all times,260.000000000000000,http://web.mta.info/nyct/service/,40.873411999799998,-73.890064000699994
+260,3,Harlem - 148 St,3-all times,261.000000000000000,http://web.mta.info/nyct/service/,40.823880000800003,-73.936470000100002
+261,4,Mt Eden Ave,4-all times,262.000000000000000,http://web.mta.info/nyct/service/,40.844434000900002,-73.914684998599995
+262,B-D,Fordham Rd,"B-rush hours, D-all times",263.000000000000000,http://web.mta.info/nyct/service/,40.861295998700001,-73.897749000999994
+263,4,170th St,4-all times,264.000000000000000,http://web.mta.info/nyct/service/,40.840074999899997,-73.917790997500006
+264,B-D,Bedford Park Blvd,"B-rush hours, D-all times",265.000000000000000,http://web.mta.info/nyct/service/,40.873243998600003,-73.887137998900002
+265,1,Marble Hill - 225th St,1-all times,266.000000000000000,http://web.mta.info/nyct/service/,40.874560999400003,-73.909830999199997
+266,1,231st St,1-all times,267.000000000000000,http://web.mta.info/nyct/service/,40.878855998200002,-73.904834001099999
+267,1,215th St,1-all times,268.000000000000000,http://web.mta.info/nyct/service/,40.869443999500000,-73.915278999500003
+268,1,207th St,1-all times,269.000000000000000,http://web.mta.info/nyct/service/,40.864614000499998,-73.918819001299994
+269,A,Inwood - 207th St,A-all times,270.000000000000000,http://web.mta.info/nyct/service/,40.868071999999998,-73.919899001000005
+270,1,Van Cortlandt Park - 242nd St,1-all times,271.000000000000000,http://web.mta.info/nyct/service/,40.889248000099997,-73.898583000499997
+271,2-5,West Farms Sq - E Tremont Av,"2-all times, 5-all times exc nights, skips rush hours AM southbound, PM northbound",272.000000000000000,http://web.mta.info/nyct/service/,40.840207632400002,-73.879961278799996
+272,2-5,219th St,"2-all times, 5-rush hours AM southbound, PM northbound",273.000000000000000,http://web.mta.info/nyct/service/,40.883887974600000,-73.862509707900003
+273,4,Mosholu Pkwy,4-all times,274.000000000000000,http://web.mta.info/nyct/service/,40.879749999500000,-73.884654999899993
+274,D,Norwood - 205th St,D-all times,275.000000000000000,http://web.mta.info/nyct/service/,40.874811000100003,-73.878854999200001
+275,2-5,Burke Ave,"2-all times, 5-rush hours AM southbound, PM northbound",276.000000000000000,http://web.mta.info/nyct/service/,40.871258802500002,-73.867053617500005
+276,5,Baychester Ave,5-all times,277.000000000000000,http://web.mta.info/nyct/service/,40.878663000400003,-73.838590998000001
+277,5,Eastchester - Dyre Ave,5-all times,278.000000000000000,http://web.mta.info/nyct/service/,40.888299998999997,-73.830834002200007
+278,F,Jamaica - 179th St,F-all times,279.000000000000000,http://web.mta.info/nyct/service/,40.712645666699999,-73.783817001800003
+279,2,Wakefield - 241st St,2-all times,280.000000000000000,http://web.mta.info/nyct/service/,40.903125000499998,-73.850619998799999
+280,S,Botanic Garden,S Franklin Av-Fulton St to Prospect Park-all times,281.000000000000000,http://web.mta.info/nyct/service/,40.670342666600000,-73.959244999500001
+281,L,Bushwick - Aberdeen,L-all times,282.000000000000000,http://web.mta.info/nyct/service/,40.682860625499998,-73.905261763100000
+282,L,Broadway Junction,L-all times,283.000000000000000,http://web.mta.info/nyct/service/,40.678456248400003,-73.903117579200000
+283,5,Gun Hill Rd,5-all times,284.000000000000000,http://web.mta.info/nyct/service/,40.869525999600000,-73.846384001499999
+284,2-5,E 180th St,"2,5-all times",285.000000000000000,http://web.mta.info/nyct/service/,40.841863041200000,-73.873346095100004
+285,1,Dyckman St,1-all times,286.000000000000000,http://web.mta.info/nyct/service/,40.860531001399998,-73.925536000099996
+286,1,125th St,1-all times,287.000000000000000,http://web.mta.info/nyct/service/,40.815581000000002,-73.958372001000001
+287,S,Franklin Ave - Fulton St,S to Prospect Park-all times,288.000000000000000,http://web.mta.info/nyct/service/,40.680595666000002,-73.955827001100005
+288,2-5,149th St - Grand Concourse,"2-all times, 5-all times exc nights",289.000000000000000,http://web.mta.info/nyct/service/,40.818330144100003,-73.926722474399995
+289,2-5,3rd Ave - 149th St,"2-all times, 5-all times exc nights",290.000000000000000,http://web.mta.info/nyct/service/,40.816029252500002,-73.917791527600002
+290,4,167th St,4-all times,291.000000000000000,http://web.mta.info/nyct/service/,40.835536999299997,-73.921399997799995
+291,6,Brook Ave,6-all times,292.000000000000000,http://web.mta.info/nyct/service/,40.807565999900000,-73.919239999100000
+292,7,33rd St,7-all times,293.000000000000000,http://web.mta.info/nyct/service/,40.744586999799999,-73.930996999499996
+293,7,40th St,7-all times,294.000000000000000,http://web.mta.info/nyct/service/,40.743781001499997,-73.924015998499996
+294,A-B-C-D,145th St,"A,D-all times, B-weekdays and evenings, C-all times exc nights",295.000000000000000,http://web.mta.info/nyct/service/,40.824766360900000,-73.944087928200005
+295,B-D,155th St,"B-rush hours, D-all times, skips rush hours AM southbound, PM northbound",296.000000000000000,http://web.mta.info/nyct/service/,40.830134999999999,-73.938208998099995
+296,B-D,161st St - Yankee Stadium,"B-rush hours, D-all times, skips rush hours AM southbound, PM northbound",297.000000000000000,http://web.mta.info/nyct/service/,40.827904998800001,-73.925650997800005
+297,A-C,Utica Ave,"A-all times, C-all times exc nights",298.000000000000000,http://web.mta.info/nyct/service/,40.679363999499998,-73.930728999099998
+298,E-M-R,Steinway St,"E-nights, R-all other times, M-weekdays and evenings",299.000000000000000,http://web.mta.info/nyct/service/,40.756987359100002,-73.920526471700001
+299,J,Kosciuszko St,J-all times,300.000000000000000,http://web.mta.info/nyct/service/,40.693172001299999,-73.928508999300007
+300,J-Z,Gates Ave,"Z-rush hours AM westbound, PM eastbound, J-all other times",301.000000000000000,http://web.mta.info/nyct/service/,40.689583999000000,-73.922156001499999
+301,M,Central Ave,M-all times,302.000000000000000,http://web.mta.info/nyct/service/,40.697873000100003,-73.927242999000001
+302,M,Knickerbocker Ave,M-all times,303.000000000000000,http://web.mta.info/nyct/service/,40.698660001199997,-73.919720001900004
+303,N-W,30th Ave,"N-all times, W part time",304.000000000000000,http://web.mta.info/nyct/service/,40.766778666699999,-73.921479000199994
+304,L,Jefferson St,L-all times,305.000000000000000,http://web.mta.info/nyct/service/,40.706606665999999,-73.922912999999994
+305,L,Morgan Ave,L-all times,306.000000000000000,http://web.mta.info/nyct/service/,40.706151666799997,-73.933147000199995
+306,E-M-R,Queens Plz,"E-all times, M-weekdays and evenings, R-all times exc nights",307.000000000000000,http://web.mta.info/nyct/service/,40.748917719900000,-73.937138239700005
+307,F,18th Ave,F-all times,308.000000000000000,http://web.mta.info/nyct/service/,40.629754666399997,-73.976970999700001
+308,R,77th St,R-all times,309.000000000000000,http://web.mta.info/nyct/service/,40.629741666900003,-74.025509999600004
+309,R,Bay Ridge Ave,R-all times,310.000000000000000,http://web.mta.info/nyct/service/,40.634966666799997,-74.023376999500002
+310,D,50th St,D-all times,311.000000000000000,http://web.mta.info/nyct/service/,40.636260890999999,-73.994658780600005
+311,N,Ft Hamilton Pkwy,N-all times,312.000000000000000,http://web.mta.info/nyct/service/,40.631385667200000,-74.005351000499999
+312,D,25th Ave,D-all times,313.000000000000000,http://web.mta.info/nyct/service/,40.597703666999998,-73.986829000100002
+313,D,Bay Pky,D-all times,314.000000000000000,http://web.mta.info/nyct/service/,40.601950461599998,-73.993676200099998
+314,N,20th Ave,N-all times,315.000000000000000,http://web.mta.info/nyct/service/,40.617108999899997,-73.984521998500000
+315,N,18th Ave,N-all times,316.000000000000000,http://web.mta.info/nyct/service/,40.620686997699998,-73.990453998700005
+316,R,Bay Ridge - 95th St,R-all times,317.000000000000000,http://web.mta.info/nyct/service/,40.616621667300002,-74.030876000899994
+317,R,86th St,R-all times,318.000000000000000,http://web.mta.info/nyct/service/,40.622686667200000,-74.028397999999996
+318,D,79th St,D-all times,319.000000000000000,http://web.mta.info/nyct/service/,40.613158925699999,-74.000582874299994
+319,D,71st St,D-all times,320.000000000000000,http://web.mta.info/nyct/service/,40.619258709800000,-73.998840948500003
+320,D,20th Ave,D-all times,321.000000000000000,http://web.mta.info/nyct/service/,40.604676998199999,-73.998174321600004
+321,D,18th Ave,D-all times,322.000000000000000,http://web.mta.info/nyct/service/,40.607735731699997,-74.001592592400002
+322,D,62nd St,D-all times,323.000000000000000,http://web.mta.info/nyct/service/,40.626224462899998,-73.996857249900003
+323,N,New Utrecht Ave,N-all times,324.000000000000000,http://web.mta.info/nyct/service/,40.624841667299997,-73.996353000300005
+324,F,Ave U,F-all times,325.000000000000000,http://web.mta.info/nyct/service/,40.595924825499999,-73.973376419700003
+325,F,Kings Hwy,F-all times,326.000000000000000,http://web.mta.info/nyct/service/,40.603258405100000,-73.972355308499999
+326,B-Q,Brighton Beach,"B-weekdays and evenings, Q-all times",327.000000000000000,http://web.mta.info/nyct/service/,40.577710196600002,-73.961353786000004
+327,B-Q,Sheepshead Bay,"B-weekdays and evenings, Q-all times",328.000000000000000,http://web.mta.info/nyct/service/,40.586547547099997,-73.954057912600007
+328,Q,Ave U,Q-all times,329.000000000000000,http://web.mta.info/nyct/service/,40.599308950999998,-73.955811223200001
+329,B-Q,Kings Hwy,"B-weekdays and evenings, Q-all times",330.000000000000000,http://web.mta.info/nyct/service/,40.608638645399999,-73.957608735400001
+330,N,Ave U,N-all times,331.000000000000000,http://web.mta.info/nyct/service/,40.597235999900001,-73.979084001000004
+331,N,Kings Hwy,N-all times,332.000000000000000,http://web.mta.info/nyct/service/,40.604058999800003,-73.980373002299999
+332,F,Neptune Ave,F-all times,333.000000000000000,http://web.mta.info/nyct/service/,40.580738758499997,-73.974592728199994
+333,F,Ave X,F-all times,334.000000000000000,http://web.mta.info/nyct/service/,40.589449666599997,-73.974265999699995
+334,D,Bay 50th St,D-all times,335.000000000000000,http://web.mta.info/nyct/service/,40.588840666499998,-73.983765000500000
+335,N,Gravesend - 86th St,N-all times,336.000000000000000,http://web.mta.info/nyct/service/,40.592465000899999,-73.978188999400004
+336,F,Ave P,F-all times,337.000000000000000,http://web.mta.info/nyct/service/,40.608842808900000,-73.973002815300006
+337,F,Ave N,F-all times,338.000000000000000,http://web.mta.info/nyct/service/,40.614356711900001,-73.974048508699994
+338,F,Bay Pky,F-all times,339.000000000000000,http://web.mta.info/nyct/service/,40.620731623200001,-73.975256978199994
+339,Q,Ave M,Q-all times,340.000000000000000,http://web.mta.info/nyct/service/,40.617397744400002,-73.959243105200002
+340,N,Bay Pky,N-all times,341.000000000000000,http://web.mta.info/nyct/service/,40.611455789899999,-73.981780010700007
+341,F,Ave I,F-all times,342.000000000000000,http://web.mta.info/nyct/service/,40.625017440199997,-73.976069331700003
+342,Q,Ave J,Q-all times,343.000000000000000,http://web.mta.info/nyct/service/,40.625022819900003,-73.960693162499993
+343,Q,Ave H,Q-all times,344.000000000000000,http://web.mta.info/nyct/service/,40.629208377600001,-73.961517939399997
+344,Q,Neck Rd,Q-all times,345.000000000000000,http://web.mta.info/nyct/service/,40.595321691099997,-73.955078274900004
+345,F,21st St - Queensbridge,F-all times,346.000000000000000,http://web.mta.info/nyct/service/,40.753739270899999,-73.941937614599993
+346,A-C-E,50th St,"A-nights, C-all other times, E-all times",347.000000000000000,http://web.mta.info/nyct/service/,40.762455999300002,-73.985984000299993
+347,B-D-E,7th Ave,"D,E-all times, B-weekdays and evenings",348.000000000000000,http://web.mta.info/nyct/service/,40.762970152500003,-73.981697823399998
+348,B-D-F-M,47th-50th Sts - Rockefeller Ctr,"B,M-weekdays and evenings, D,F-all times",349.000000000000000,http://web.mta.info/nyct/service/,40.758641001599997,-73.981331002299996
+349,F,57th St,F-all times,350.000000000000000,http://web.mta.info/nyct/service/,40.764085000800002,-73.977368000900000
+350,F-Q,Lexington Ave - 63rd St,"F-all times, Q all times",351.000000000000000,http://web.mta.info/nyct/service/,40.764618094399999,-73.966089644099995
+351,F,Roosevelt Island - Main St,F-all times,352.000000000000000,http://web.mta.info/nyct/service/,40.759171999700001,-73.953234999800003
+352,A-B-C-D,59th St - Columbus Circle,"A,D-all times, B-weekdays and evenings, C-all times exc nights",353.000000000000000,http://web.mta.info/nyct/service/,40.768249531800002,-73.981648723000006
+353,N-Q-R-W,49th St,"N-all times, Q-all times exc weekends, R-all times exc nights, W part time",354.000000000000000,http://web.mta.info/nyct/service/,40.759801973899997,-73.984209565900002
+354,N-Q-R-W,57th St,"N,Q-all times, R-all times exc nights, W part time",355.000000000000000,http://web.mta.info/nyct/service/,40.764565525000002,-73.980729733700002
+355,N-R-W,5th Ave - 59th St,"N-all times, R-all times exc nights, W part time",356.000000000000000,http://web.mta.info/nyct/service/,40.764810999799998,-73.973347000499999
+356,N-R-W,Lexington Ave - 59th St,"N-all times, R-all times exc nights, W part time",357.000000000000000,http://web.mta.info/nyct/service/,40.762708855400000,-73.967375017099997
+357,1-2-3,34th St - Penn Station,"1,2,3-all times",358.000000000000000,http://web.mta.info/nyct/service/,40.750373000000003,-73.991056999099996
+358,1-2-3,Times Sq - 42nd St,"1,2,3-all times",359.000000000000000,http://web.mta.info/nyct/service/,40.755290000000002,-73.987495000500004
+359,A-C,Fulton St,"A-all times, C-all times exc nights",360.000000000000000,http://web.mta.info/nyct/service/,40.710162165299998,-74.007623093199996
+360,A-C,Chambers St,"A-all times, C-all times exc nights",361.000000000000000,http://web.mta.info/nyct/service/,40.714111000800003,-74.008584735699998
+361,A-C-E,42nd St - Port Authority Bus Term,"A,E-all times, C-all times exc nights",362.000000000000000,http://web.mta.info/nyct/service/,40.757307998599998,-73.989735000899998
+362,G,Myrtle-Willoughby Aves,G-all times,363.000000000000000,http://web.mta.info/nyct/service/,40.694618998999999,-73.949066998899994
+363,G,Flushing Ave,G-all times,364.000000000000000,http://web.mta.info/nyct/service/,40.700376666200000,-73.950234000999998
+364,F-M,23rd St,"F-all times, M-weekdays and evenings",365.000000000000000,http://web.mta.info/nyct/service/,40.742954317799999,-73.992765004700004
+365,B-D-F-M,Herald Sq - 34th St,"B,M-weekdays and evenings, D,F-all times",366.000000000000000,http://web.mta.info/nyct/service/,40.749789399900003,-73.987771890700003
+366,A-C-G,Hoyt - Schermerhorn Sts,"A,G-all times, C-all times exc nights",367.000000000000000,http://web.mta.info/nyct/service/,40.688408475800003,-73.985036240300005
+367,A-C-F,Jay St - MetroTech,"A,F-all times, C-all times exc nights",368.000000000000000,http://web.mta.info/nyct/service/,40.692470636800003,-73.987218152699995
+368,F,East Broadway,F-all times,369.000000000000000,http://web.mta.info/nyct/service/,40.713855000999999,-73.990177001199996
+369,F,Delancey St - Essex St,F-all times,370.000000000000000,http://web.mta.info/nyct/service/,40.718680742200000,-73.988078068099995
+370,F,Lower East Side - 2nd Ave,F-all times,371.000000000000000,http://web.mta.info/nyct/service/,40.723401665700003,-73.989937999999995
+371,J-M,Flushing Ave,"J-all times, skips weekdays AM westbound, PM eastbound, M-all times exc nights",372.000000000000000,http://web.mta.info/nyct/service/,40.700404403000000,-73.941377348399996
+372,J-M-Z,Myrtle Ave,"J,M-all times, Z-rush hours AM westbound, PM eastbound",373.000000000000000,http://web.mta.info/nyct/service/,40.697195000500002,-73.935623001300002
+373,F-G,4th Av - 9th St,"F,G-all times",374.000000000000000,http://web.mta.info/nyct/service/,40.670271667300000,-73.989778999400002
+374,F-G,Smith - 9th Sts,"F,G-all times",375.000000000000000,http://web.mta.info/nyct/service/,40.673641060900003,-73.995891727900002
+375,F-G,Bergen St,"F,G-all times",376.000000000000000,http://web.mta.info/nyct/service/,40.686110547299997,-73.990756495699998
+376,N-R,Jay St - MetroTech,"N-nights, R-all other times",377.000000000000000,http://web.mta.info/nyct/service/,40.692255396500002,-73.986056678500006
+377,N-R,Court St,"N-nights, R-all other times",378.000000000000000,http://web.mta.info/nyct/service/,40.694196480800002,-73.991818308999996
+378,N-Q-R-W,Union Sq - 14th St,"N,Q-all times, R-all times exc nights",379.000000000000000,http://web.mta.info/nyct/service/,40.735872266999998,-73.990538861800005
+379,N-Q-R-W,23rd St,"N-all times, Q-nights, R-all times exc nights",380.000000000000000,http://web.mta.info/nyct/service/,40.741302667299998,-73.989344001000006
+380,D-N-R,Prospect Ave,"D,N-nights, R-all other times",381.000000000000000,http://web.mta.info/nyct/service/,40.665413667099997,-73.992872000700004
+381,D-N-R,4th Av - 9th St,"D,N-nights, R-all other times",382.000000000000000,http://web.mta.info/nyct/service/,40.670846666800003,-73.988301999699999
+382,L,3rd Ave,L-all times,383.000000000000000,http://web.mta.info/nyct/service/,40.732690999699997,-73.985750001100001
+383,L,Union Sq - 14th St,L-all times,384.000000000000000,http://web.mta.info/nyct/service/,40.734763312200002,-73.990669768999993
+384,A-C,Liberty Ave,"A-nights, C-all other times",385.000000000000000,http://web.mta.info/nyct/service/,40.674541999900001,-73.896548000999999
+385,A-C,Broadway Junction,"A-all times, C-all times exc nights",386.000000000000000,http://web.mta.info/nyct/service/,40.678333666100002,-73.905316000599996
+386,N-R,59th St,"N,R-all times",387.000000000000000,http://web.mta.info/nyct/service/,40.641361666300000,-74.017880999499994
+387,N-R,45th St,"N-nights, R-all times, skips nights northbound",388.000000000000000,http://web.mta.info/nyct/service/,40.648938666600003,-74.010006000700002
+388,D-N-R,36th St,"D,N,R-all times",389.000000000000000,http://web.mta.info/nyct/service/,40.655143666299999,-74.003548999499998
+389,D,9th Ave,D-all times,390.000000000000000,http://web.mta.info/nyct/service/,40.646484077300002,-73.994448744500005
+390,N-R,53rd St,"N-nights, R-all times, skips nights northbound",391.000000000000000,http://web.mta.info/nyct/service/,40.645068667399997,-74.014033999899993
+391,D,Ft Hamilton Pkwy,D-all times,392.000000000000000,http://web.mta.info/nyct/service/,40.640912711399999,-73.994202237500005
+392,D-N-R,25th St,"D,N-nights, R-all other times",393.000000000000000,http://web.mta.info/nyct/service/,40.660396666899999,-73.998090999699997
+393,F-G,Carroll St,"F,G-all times",394.000000000000000,http://web.mta.info/nyct/service/,40.680273351700002,-73.994946979999995
+394,A-C-E,Spring St,"A-nights, C-all other times, E-all times",395.000000000000000,http://web.mta.info/nyct/service/,40.726227001300003,-74.003738998399996
+395,A,181st St,A-all times,396.000000000000000,http://web.mta.info/nyct/service/,40.851694999700001,-73.937969002100004
+396,A,190th St,A-all times,397.000000000000000,http://web.mta.info/nyct/service/,40.859021998899998,-73.934179999600005
+397,A-B-C,116th St,"A-nights, B-weekdays and evenings, C-all times exc nights",398.000000000000000,http://web.mta.info/nyct/service/,40.805058133400003,-73.954797780600003
+398,A-B-C-D,125th St,"A,D-all times, B-weekdays and evenings, C-all times exc nights",399.000000000000000,http://web.mta.info/nyct/service/,40.811071673000001,-73.952247997300006
+399,N-Q-R-W,Prince St,"N-all times, Q-nights, R-all times exc nights",400.000000000000000,http://web.mta.info/nyct/service/,40.724328665999998,-73.997702000499999
+400,N-Q-R-W,8th St - NYU,"N-all times, Q-nights, R-all times exc nights",401.000000000000000,http://web.mta.info/nyct/service/,40.730464998499997,-73.992507998500002
+401,2-3,Fulton St,"2-all times, 3-all times exc nights",402.000000000000000,http://web.mta.info/nyct/service/,40.709415999299999,-74.006570999700003
+402,2-3,Park Pl,"2-all times, 3-all times exc nights",403.000000000000000,http://web.mta.info/nyct/service/,40.713050999099998,-74.008810999999994
+403,1-2-3,Chambers St,"1,2-all times, 3-all times exc nights",404.000000000000000,http://web.mta.info/nyct/service/,40.715478000099999,-74.009266001699999
+404,2-3,Hoyt St,"2-all times, 3-all times exc nights",405.000000000000000,http://web.mta.info/nyct/service/,40.690544185400000,-73.985063795800002
+405,2-3,Borough Hall,"2-all times, 3-all times exc nights",406.000000000000000,http://web.mta.info/nyct/service/,40.693218999599999,-73.989997999600007
+406,4,183rd St,4-all times,407.000000000000000,http://web.mta.info/nyct/service/,40.858407000400000,-73.903879001500002
+407,4,Fordham Rd,4-all times,408.000000000000000,http://web.mta.info/nyct/service/,40.862802999899998,-73.901033999199996
+408,E,World Trade Center,E-all times,409.000000000000000,http://web.mta.info/nyct/service/,40.712563926800001,-74.009744615200006
+409,A-C-E,Canal St - Holland Tunnel,"A,E-all times, C-all times exc nights",410.000000000000000,http://web.mta.info/nyct/service/,40.720824000100002,-74.005229002299998
+410,A-C,155th St,"A-nights, C-all other times",411.000000000000000,http://web.mta.info/nyct/service/,40.830517999300000,-73.941514000799998
+411,A-C,163rd St - Amsterdam Av,"A-nights, C-all other times",412.000000000000000,http://web.mta.info/nyct/service/,40.836012999200001,-73.939892001900006
+412,J-Z,Fulton St,"J-all times, Z-rush hours AM westbound, PM eastbound",413.000000000000000,http://web.mta.info/nyct/service/,40.710022666599997,-74.007938001100001
+413,J-Z,Chambers St,"J-all times, Z-rush hours AM westbound, PM eastbound",414.000000000000000,http://web.mta.info/nyct/service/,40.713233789599997,-74.003406730300000
+414,J-Z,Canal St,"J-all times, Z-rush hours AM westbound, PM eastbound",415.000000000000000,http://web.mta.info/nyct/service/,40.718173876999998,-73.999826385500000
+415,R-W,City Hall,"N-nights, R-all other times",416.000000000000000,http://web.mta.info/nyct/service/,40.713272331100001,-74.006985817800000
+416,R-W,Canal St,"N-nights, R-all other times",417.000000000000000,http://web.mta.info/nyct/service/,40.719465001099998,-74.001826000099996
+417,1,South Ferry,1-all times,418.000000000000000,http://web.mta.info/nyct/service/,40.701730507599997,-74.013168959200001
+418,4-5,Bowling Green,"4-all times, 5-all times exc nights",419.000000000000000,http://web.mta.info/nyct/service/,40.704913999299997,-74.014007997999997
+419,4-5,Wall St,"4-all times, 5-weekdays",420.000000000000000,http://web.mta.info/nyct/service/,40.707557000900003,-74.011861998599997
+420,R-W,Whitehall St,"N-nights, R-all other times",421.000000000000000,http://web.mta.info/nyct/service/,40.703142373600002,-74.013007237400004
+421,R-W,Rector St,"N-nights, R-all other times",422.000000000000000,http://web.mta.info/nyct/service/,40.707744756300002,-74.012974562500006
+422,M,Fresh Pond Rd,M-all times,423.000000000000000,http://web.mta.info/nyct/service/,40.706225998199997,-73.895898001700004
+423,M,Middle Village - Metropolitan Ave,M-all times,424.000000000000000,http://web.mta.info/nyct/service/,40.711431305100000,-73.889577229799997
+424,1,Rector St,1-all times,425.000000000000000,http://web.mta.info/nyct/service/,40.707512999499997,-74.013783001199997
+425,1,Cortlandt St,Temporarily closed,426.000000000000000,http://web.mta.info/nyct/service/,40.711835000800001,-74.012188001100000
+426,4-5,Fulton St,"4-all times, 5-weekdays",427.000000000000000,http://web.mta.info/nyct/service/,40.710367998800002,-74.009508998599998
+427,J-Z,Broad St,"J-all times, Z-rush hours AM westbound, PM eastbound",428.000000000000000,http://web.mta.info/nyct/service/,40.706476001100000,-74.011055999899995
+428,R-W,Cortlandt St,"N-nights, R-all other times",429.000000000000000,http://web.mta.info/nyct/service/,40.710512984200001,-74.011131964699999
+429,2-3,Wall St,"2-all times, 3-all times exc nights",430.000000000000000,http://web.mta.info/nyct/service/,40.706820999800001,-74.009099998400004
+430,A,Dyckman St,A-all times,431.000000000000000,http://web.mta.info/nyct/service/,40.865490999000002,-73.927270999599997
+431,B-D,Grand St,"B-weekdays and evenings, D-all times",432.000000000000000,http://web.mta.info/nyct/service/,40.718266999500003,-73.993752999099996
+432,B-D-F-M,Broadway - Lafayette St,"B,M-weekdays and evenings, D,F-all times",433.000000000000000,http://web.mta.info/nyct/service/,40.725296998700003,-73.996203998799999
+433,J-Z,Bowery,"J-all times, Z-rush hours AM westbound, PM eastbound",434.000000000000000,http://web.mta.info/nyct/service/,40.720246883100003,-73.993806906499998
+434,N-Q,Canal St,"N-all times, Q-weekdays and evenings",435.000000000000000,http://web.mta.info/nyct/service/,40.718814263600002,-74.001054713100004
+435,A-C-E,23rd St,"A-nights, C-all other times, E-all times",436.000000000000000,http://web.mta.info/nyct/service/,40.745905999400001,-73.998041001199994
+436,A-C-E,34th St - Penn Station,"A,E-all times, C-all times exc nights",437.000000000000000,http://web.mta.info/nyct/service/,40.752287000800003,-73.993390999699997
+437,E-F-M-R,Jackson Hts - Roosevelt Av,"E,F-all times, M-weekdays and evenings, R-all times exc nights",438.000000000000000,http://web.mta.info/nyct/service/,40.746539691199999,-73.891298665199997
+438,1-2-3,14th St,"1,2-all times, 3-all times exc nights",439.000000000000000,http://web.mta.info/nyct/service/,40.737825999700000,-74.000201000600001
+439,A-B-C,135th St,"A-nights, B-weekdays and evenings, C-all times exc nights",440.000000000000000,http://web.mta.info/nyct/service/,40.817905559200000,-73.947534808800000
+440,F-M,14th St,"F-all times, M-weekdays and evenings",441.000000000000000,http://web.mta.info/nyct/service/,40.738227999700001,-73.996208999199993
+441,L,6th Ave,L-all times,442.000000000000000,http://web.mta.info/nyct/service/,40.737741469800000,-73.997750788700003
+442,L,8th Ave,L-all times,443.000000000000000,http://web.mta.info/nyct/service/,40.739776666399997,-74.002578001000003
+443,A-C-E,14th St,"A,E-all times, C-all times exc nights",444.000000000000000,http://web.mta.info/nyct/service/,40.740893000200003,-74.001689999400000
+444,3-4,Nostrand Ave,"4-nights, 3-all other times",445.000000000000000,http://web.mta.info/nyct/service/,40.669938150900002,-73.950426249000003
+445,2-3,Clark St,"2-all times, 3-all times exc nights",446.000000000000000,http://web.mta.info/nyct/service/,40.697465999999999,-73.993085998200002
+446,A-C,Franklin Ave,"A-nights, C-all other times",447.000000000000000,http://web.mta.info/nyct/service/,40.681379666600002,-73.956848000099995
+447,A-C,Clinton - Washington Aves,"A-nights, C-all other times",448.000000000000000,http://web.mta.info/nyct/service/,40.683262999100002,-73.965837998599994
+448,M,Forest Ave,M-all times,449.000000000000000,http://web.mta.info/nyct/service/,40.704412000900000,-73.903075000100003
+449,4-6-6 Express,110th St,"4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound",450.000000000000000,http://web.mta.info/nyct/service/,40.795020000100003,-73.944249996899998
+450,4-5-6-6 Express,86th St,"4,6-all times, 5-all times exc nights, 6 Express-weekdays AM southbound, PM northbound",451.000000000000000,http://web.mta.info/nyct/service/,40.779491998200001,-73.955588999900002
+451,F,York St,F-all times,452.000000000000000,http://web.mta.info/nyct/service/,40.699742667700001,-73.986884999899999
+452,A-C,High St,"A-all times, C-all times exc nights",453.000000000000000,http://web.mta.info/nyct/service/,40.699336999800003,-73.990531000700003
+453,A-C,Lafayette Ave,"A-nights, C-all other times",454.000000000000000,http://web.mta.info/nyct/service/,40.686113000200002,-73.973945998500000
+454,2-5,President St,"2-all times, 5 weekdays",455.000000000000000,http://web.mta.info/nyct/service/,40.667883603500002,-73.950589200200000
+455,4,Woodlawn,4-all times,456.000000000000000,http://web.mta.info/nyct/service/,40.886037000300000,-73.878750999900006
+456,4-6-6 Express,Bleecker St,"4 nights, 6-all times, 6 Express-weekdays PM",457.000000000000000,http://web.mta.info/nyct/service/,40.725914666800001,-73.994659000100000
+457,4-6-6 Express,103rd St,"4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound",458.000000000000000,http://web.mta.info/nyct/service/,40.790600000100000,-73.947478001500002
+458,A-C-S,Euclid Ave,"S to Ozone Park-Lefferts Blvd-nights, C-all other times, A-all times",459.000000000000000,http://web.mta.info/nyct/service/,40.675376998200001,-73.872106001000006
+459,A-S,88th St,"A-all times, S Euclid Av to Ozone Park-Lefferts Blvd-nights",460.000000000000000,http://web.mta.info/nyct/service/,40.679843001400002,-73.851470000299997
+460,Q,Cortelyou Rd,Q-all times,461.000000000000000,http://web.mta.info/nyct/service/,40.640940165099998,-73.963790055100006
+461,4-6-6 Express,116th St,"4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound",462.000000000000000,http://web.mta.info/nyct/service/,40.798629000200002,-73.941616998399994
+462,6-6 Express,Parkchester,"6-all times, 6 Express-weekdays AM southbound, PM northbound",463.000000000000000,http://web.mta.info/nyct/service/,40.833225999299998,-73.860816001100005
+463,1-2,Franklin St,"1-all times, 2-nights",464.000000000000000,http://web.mta.info/nyct/service/,40.719318001300003,-74.006886002800002
+464,A-S,80th St,"A-all times, S Euclid Av to Ozone Park-Lefferts Blvd-nights",465.000000000000000,http://web.mta.info/nyct/service/,40.679371001200003,-73.858992002099995
+465,7-7 Express,5th Ave - Bryant Pk,"7-all times, 7 Express-rush hours AM westbound, PM eastbound",466.000000000000000,http://web.mta.info/nyct/service/,40.753821000599999,-73.981962998599997
+466,4-6-6 Express,Spring St,"4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound",467.000000000000000,http://web.mta.info/nyct/service/,40.722301000000002,-73.997141000100001
+467,4-5-6-6 Express,125th St,"4,6-all times, 5-all times exc nights, 6 Express-weekdays AM southbound, PM northbound",468.000000000000000,http://web.mta.info/nyct/service/,40.804138000599998,-73.937594000600001
+468,D-F-N-Q,Coney Island - Stillwell Av,"D,F,N,Q-all times",469.000000000000000,http://web.mta.info/nyct/service/,40.577281000100001,-73.981235998100004
+469,7-7 Express,34th St - Hudson Yards,"7-all times, 7 Express-rush hours AM westbound, PM eastbound",470.000000000000000,http://web.mta.info/nyct/service/,40.755446359600001,-74.002197094400003
+470,Q,72nd St,Q-all times,641.000000000000000,http://web.mta.info/nyct/service/,40.768802510100002,-73.958361786799998
+471,Q,86th St,Q-all times,642.000000000000000,http://web.mta.info/nyct/service/,40.777861043300000,-73.951770909600000
+472,Q,96th St,Q-all times,643.000000000000000,http://web.mta.info/nyct/service/,40.784236650200000,-73.947066021900000
