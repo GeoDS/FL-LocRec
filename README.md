@@ -1,7 +1,7 @@
 # FL-LocRec
 
-LSTM-TrajGAN: A Deep Learning Approach to Trajectory Privacy Protection
-
+A privacy‐preserving framework for location recommendation using federated learning
+ 
 ## Paper
 
 If you find our code useful for your research, please cite our paper:
